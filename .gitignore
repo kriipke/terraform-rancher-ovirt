@@ -1,0 +1,4 @@
+packer/artifacts
+terraform/output.tf
+terraform/terraform.tfstate*
+terraform/*.terraform*
